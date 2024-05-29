@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+#line{
+    height:2px;
+    Width: 200px;
+    background-color: black;
+    position: absolute;
+    Top : 50%;
+    left: 50%;
+    transform-origin: center;
+}
